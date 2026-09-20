@@ -1,1 +1,1 @@
-worker: python stream_bot.py
+worker: python Bigbrain.py
